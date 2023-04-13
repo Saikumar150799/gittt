@@ -4,3 +4,5 @@ let first = 'First'
 
 
 let Hello  = 'HELLO'
+
+let second = 'Second'
